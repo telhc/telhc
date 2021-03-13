@@ -16,6 +16,6 @@
 A password saver that uses fernet encryption to store your account details!  
 * Interactive and friendly interface
 * Supports importing and exporting to csv
-* Encryption using fernet
+* Encryption using fernet  
 ![](https://github.com/telhc/telhc/blob/main/images/pypwmanmenu.png)
 ![](https://github.com/telhc/telhc/blob/main/images/pypwmaninsert.png)
