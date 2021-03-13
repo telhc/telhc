@@ -3,7 +3,7 @@
 * Scraped over 2000 entries from [housespeakingsame](http://house.speakingsame.com/) using python and selenium
 * Processing of text data using regex and pandas
 * Geospatial and proximity analysis with the help of [G-NAF](https://data.gov.au/data/dataset/geocoded-national-address-file-g-naf) dataset to predict house price based on neighbourhood property sales
-* Optimized Linear, Lasso, and Random Forest Regressors using GridSearchCV to conclude the best model
+* Optimized Linear, Lasso, Random Forest and XGB Regressors using GridSearchCV to conclude the best model
 ![](/images/perth_geo.png)
 
 # [Machine Learning with Handwritten Digits](https://rpubs.com/telhc/722160)
