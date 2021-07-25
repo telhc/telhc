@@ -1,3 +1,7 @@
+# [Hanabi](https://github.com/telhc/Hanabi)
+* AI plays the popular cooperative card game Hanabi!
+* A reinforcement machine learning environment and neural networks with only numpy
+
 # [Perth, WA House Price Prediction](https://github.com/telhc/Perth-House-Price-Prediction)
 * An end-to-end house price prediction project for suburbs around Perth, Western Australia.
 * Scraped over 2000 entries from [housespeakingsame](http://house.speakingsame.com/) using python and selenium
@@ -8,8 +12,8 @@
 
 # [Machine Learning with Handwritten Digits](https://rpubs.com/telhc/722160)
 * Preprocessing and modeling of the mnist dataset using Rstudio
-* Optimizing knn and random forest classification models using the caret library
-* Creation of an ensemble model specifically for digits 2 and 7
+* Optimizing statistical classification models using cv controls, tunegrid and the caret library
+* Creation of an ensemble model for specific digits
 ![](/images/mnist_digits.png)
 
 # [Python Password Manager](https://github.com/telhc/pypwvault)
