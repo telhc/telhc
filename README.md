@@ -1,3 +1,7 @@
+# [Predictive Sales Analysis](https://github.com/telhc/Sales/blob/main/sales.ipynb)
+* Forecasting of the amount of every item sold next month in every shop of the largest Russian software firm, 1C
+* Visual analysis and outlier inspections
+
 # [Hanabi](https://github.com/telhc/Hanabi)
 * AI plays the popular cooperative card game Hanabi!
 * A reinforcement machine learning environment and neural networks with only numpy
