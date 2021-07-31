@@ -6,6 +6,11 @@
 * AI plays the popular cooperative card game Hanabi!
 * A reinforcement machine learning environment and neural networks with only numpy
 
+# [Malaria Cell Identification Using CNN](https://github.com/telhc/malaria/blob/main/Malaria%20Cell%20Identification.ipynb)
+* Identifying parasitized malaria cells with images provided by Dr. Sreenivas Bhattiprolu
+* Constructing and training a convolutional neural network 
+![](/images/malaria.png)
+
 # [Breast Cancer Data ML & Analysis](https://github.com/telhc/brca/blob/main/Breast%20Cancer%20Data%20Machine%20Learning%20and%20Analysis.ipynb)
 * Analysis of the Breast Cancer Wisconsin (Diagnostic) Dataset
 * Predicting malignancy by fitting statistical models to biopsy features
