@@ -6,6 +6,11 @@
 * AI plays the popular cooperative card game Hanabi!
 * A reinforcement machine learning environment and neural networks with only numpy
 
+# [Breast Cancer Data ML & Analysis](https://github.com/telhc/brca/blob/main/Breast%20Cancer%20Data%20Machine%20Learning%20and%20Analysis.ipynb)
+* Analysis of the Breast Cancer Wisconsin (Diagnostic) Dataset
+* Predicting malignancy by fitting statistical models to biopsy features
+![](/images/brca.png)
+
 # [Perth, WA House Price Prediction](https://github.com/telhc/Perth-House-Price-Prediction)
 * An end-to-end house price prediction project for suburbs around Perth, Western Australia.
 * Scraped over 2000 entries from [housespeakingsame](http://house.speakingsame.com/) using python and selenium
