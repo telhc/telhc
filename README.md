@@ -6,6 +6,10 @@
 * AI plays the popular cooperative card game Hanabi!
 * A reinforcement machine learning environment and neural networks with only numpy
 
+# [Turbulence Modeling with Machine Learning](https://github.com/telhc/turbulence/blob/main/Turbulence%20Modeling%20with%20Machine%20Learning.ipynb)
+* Building a machine learnt turbulence model by using a collection of RANS simulations
+* 3d Visualization and prediction of anisotropy tensors
+
 # [Malaria Cell Identification Using CNN](https://github.com/telhc/malaria/blob/main/Malaria%20Cell%20Identification.ipynb)
 * Identifying parasitized malaria cells with images provided by Dr. Sreenivas Bhattiprolu
 * Constructing and training a convolutional neural network 
